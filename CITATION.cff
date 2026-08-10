@@ -10,6 +10,12 @@ authors:
     orcid: "https://orcid.org/0009-0008-8137-7729"
 repository-code: "https://github.com/agupta/uniform-forests-complete-graphs"
 license: MIT
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21833801"
+    description: >-
+      Zenodo all-versions DOI for the archived manuscript and companion
+      materials; resolves to the most recent deposit.
 preferred-citation:
   type: article
   title: "Edges of the uniform random forest of K_n are pairwise negatively correlated for every n"
@@ -17,8 +23,10 @@ preferred-citation:
     - family-names: Gupta
       given-names: Anish
       orcid: "https://orcid.org/0009-0008-8137-7729"
-  doi: "10.5281/zenodo.21833802"
+  doi: "10.5281/zenodo.21833801"
+  url: "https://doi.org/10.5281/zenodo.21833801"
   year: 2026
+  month: 8
 keywords:
   - uniform random forest
   - negative correlation
